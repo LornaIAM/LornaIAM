@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lorna, a Cybersecurity, IAM Azure Associate </a>☺</h1> 
+<h1>Hi, I'm Lorna, a Cybersecurity, IAM ANALYST </a>☺</h1> 
 
 <b>Microsoft Azure Entra ID</b> 
 
