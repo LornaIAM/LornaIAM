@@ -1,7 +1,5 @@
 <h1>Hi, I'm Lorna, a Cybersecurity, IAM ANALYST </a>☺</h1> 
 
-
-**CURRENT FOCUS**
 <b>Microsoft Azure Entra ID</b> 
 
 - [Creating User's in Entra ID](https://github.com/LornaIAM/User-Accounts)
