@@ -49,8 +49,6 @@ Transition into an Identity & Access Management (IAM) Analyst role, applying my 
 [LinkedIn](https://www.linkedin.com/in/lorna-labidou-istqb-ctfl-salesforce-admin-csm-02a795249)
 
 
-<h1>Hi, I'm Lorna, a Cybersecurity, IAM ANALYST </a>☺</h1> 
-
 <b>Microsoft Azure Entra ID</b> 
 
 - [Creating User's in Entra ID](https://github.com/LornaIAM/User-Accounts)
