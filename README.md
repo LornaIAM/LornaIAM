@@ -1,4 +1,4 @@
-# Hi, I'm Lorna 👋
+# Hi, I'm Lorna 👋🏽
 
 IAM / Identity Security practitioner building hands-on experience through labs, certifications, and identity security projects.
 
