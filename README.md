@@ -46,5 +46,5 @@ Transition into an Identity & Access Management (IAM) Analyst role, applying my 
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/lorna-labidou-istqb-ctfl-salesforce-admin-csm-02a795249)
+[LinkedIn](www.linkedin.com/in/lorna-labidou-02a795249)
 
