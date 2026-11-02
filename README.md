@@ -10,6 +10,10 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 - Based in Florida
 - Currently working toward SC-300 (Microsoft Identity and Access Administrator), SC-900 (Microsoft Security Compliance and Identity Fundamentals) and CompTIA Security+ Certification v7
 
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/lorna-labidou-02a795249)
+
 ## Current Focus
 
 🔐 Microsoft Entra ID
@@ -47,7 +51,4 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 
 Transition into an Identity & Access Management (IAM) Analyst role, applying my background in quality assurance, compliance, and regulated environments to identity governance and access control.
 
-## Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/lorna-labidou-02a795249)
 
