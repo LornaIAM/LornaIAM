@@ -8,7 +8,7 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 - Active Public Trust Clearance
 - ISTQB-CTFL | Scrum Master | Salesforce Admin
 - Based in Florida
-- Currently working toward SC-300 (Microsoft Identity and Access Administrator)
+- Currently working toward SC-300 (Microsoft Identity and Access Administrator) and CompTIA Security+ Certification v7
 
 ## Current Focus
 
