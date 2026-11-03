@@ -27,7 +27,7 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 ### Forge Health 01 - Clinical Identity Lifecycle and Offboarding (Microsoft Entra ID)
 - [Forge Health 01: Clinical Identity Lifecycle and Offboarding](https://github.com/LornaIAM/Forge-Health-01-Clinical-Identity-Life-Cycle-and-Offboarding-Microsoft-Entra-ID-.git)
 
-### Basic Employee-Onbarding-AD-RBAC
+### Basic Employee-Onbarding-AD-RBAC - Northstar Medical Group
 - [Basic Employee Onboarding (AD)(RBAC)](https://github.com/LornaIAM/Basic-Employee-Onboarding-AD-RBAC---Northstar-Medical-Group.git)
 
 ### Microsoft Entra ID Labs
