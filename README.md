@@ -32,12 +32,12 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 
 ### Microsoft Entra ID Labs
 
-- [Foundational Microsoft Entra ID Labs](https://github.com/LornaIAM/Microsoft-Entra-ID-Labs)
+- [IAM Fundamentals Microsoft Entra ID Labs](https://github.com/LornaIAM/Microsoft-Entra-ID-Labs)
 
 
 ### Okta
 
-- [Foundational Okta Administration](https://github.com/LornaIAM/Okta-Administration)
+- [IAM Fundamentals Okta Administration](https://github.com/LornaIAM/Okta-Administration)
 
 
 ## Career Goal
