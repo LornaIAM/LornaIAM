@@ -30,7 +30,7 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 ### Basic Employee-Onbarding-AD-RBAC - Northstar Medical Group
 - [Basic Employee Onboarding (AD)(RBAC)](https://github.com/LornaIAM/Basic-Employee-Onboarding-AD-RBAC---Northstar-Medical-Group.git)
 
-### Microsoft Entra ID Labs
+### IAM Fundamentals Microsoft Entra ID Labs
 
 - [IAM Fundamentals Microsoft Entra ID Labs](https://github.com/LornaIAM/Microsoft-Entra-ID-Labs)
 
