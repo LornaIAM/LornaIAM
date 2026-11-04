@@ -37,7 +37,7 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 
 ### Okta
 
-- [Okta Administration](https://github.com/LornaIAM/Okta-Administration)
+- [Foundational Okta Administration](https://github.com/LornaIAM/Okta-Administration)
 
 
 ## Career Goal
