@@ -4,7 +4,7 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 
 ## About Me
 
-- QA Analyst with 10+ years in regulated healthcare and government environments
+- QA Analyst with 10 years in regulated healthcare and government environments
 - Active Public Trust Clearance
 - ISTQB-CTFL | Scrum Master | Salesforce Admin
 - Based in Florida
