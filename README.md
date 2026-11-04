@@ -32,15 +32,8 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 
 ### Microsoft Entra ID Labs
 
-- [Creating Users in Entra ID](https://github.com/LornaIAM/User-Accounts)
-- [Cloud Provisioning - P2 Licensing](https://github.com/LornaIAM/P2-Licensing)
-- [Role Assignments](https://github.com/LornaIAM/Role-Assignments)
-- [Group Assignments](https://github.com/LornaIAM/Group-Assignments)
-- [Identity Lifecycle](https://github.com/LornaIAM/Identity-LifeCycle)
-- [Audit Logs](https://github.com/LornaIAM/Audit-Logs)
-- [Sign-In Logs](https://github.com/LornaIAM/Sign-In-Logs)
-- [Authentication](https://github.com/LornaIAM/Authentication)
-- [Entra ID Integration](https://github.com/LornaIAM/Entra-ID-Integration)
+- [Foundational Microsoft Entra ID Labs](https://github.com/LornaIAM/Microsoft-Entra-ID-Labs)
+
 
 ### Okta
 
