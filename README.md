@@ -35,7 +35,7 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 - [IAM Fundamentals Microsoft Entra ID Labs](https://github.com/LornaIAM/Microsoft-Entra-ID-Labs)
 
 
-### Okta
+### IAM Fundamentals Okta
 
 - [IAM Fundamentals Okta Administration](https://github.com/LornaIAM/Okta-Administration)
 
