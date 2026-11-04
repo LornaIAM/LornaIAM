@@ -46,9 +46,6 @@ IAM / Identity Security practitioner building hands-on experience through labs, 
 
 - [Okta Administration](https://github.com/LornaIAM/Okta-Administration)
 
-### Active Directory
-
-- [Active Directory Lab](https://github.com/LornaIAM/Active-Directory-)
 
 ## Career Goal
 
